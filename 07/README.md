@@ -6,7 +6,7 @@ For more information about this specific puzzle, please visit https://adventofco
 
 The file `input.txt` contains a terminal output and each line represents either a command or an output of the contents in a directory.
 
-The assignment is rebuild the filesystem based on that output. Then find all of the directories with a total size of at most X and sum them together.
+The assignment is to rebuild the filesystem based on that output. Then find all of the directories with a total size of at most X and sum them together.
 
 ## Puzzle 2
 
